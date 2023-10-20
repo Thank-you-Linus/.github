@@ -161,7 +161,7 @@ Lorsque les devices sont ingéré, **Linus** détecte automatiquement leurs type
 <!-- CONTACT -->
 ## Contact
 
-Julien Decoen - julien.decoen.pro@gmail.com
+contact@thankyou-linus.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
