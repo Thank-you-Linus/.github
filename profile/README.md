@@ -20,23 +20,37 @@
 -->
 
 <!-- PROJECT LOGO -->
-<br />
+
+<p align="center">
+  <a href="https://thankyou-linus.com/">
+    <img src="https://github.com/Thank-you-Linus/.github/blob/master/images/linus-banner.png?raw=true" alt="Thank you Linus" /></a>
+</p>
+
+<p align="center">
+  <h3 align="center">Thank you Linus</h3>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D4937&center=true&random=false&width=435&lines=Votre+majordome+personnel+!" alt="Typing SVG" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCKXNON6Xtxp63z-GKoMyPWw"><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/Thank-you-Linus/.github/master/images/socials/youtube.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fthank_you_Linus"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/Thank-you-Linus/.github/master/images/socials/x.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/ej2Xn4GTww" alt="Discord" title="Discord Server"><img width="32px" src="https://raw.githubusercontent.com/Thank-you-Linus/.github/master/images/socials/discord.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/thankyoulinus.ai/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/Thank-you-Linus/.github/master/images/socials/instagram.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/people/Thank-you-Linus/100093180180087/"><img width="32px" alt="Facebook" title="Facebook" src="https://raw.githubusercontent.com/Thank-you-Linus/.github/master/images/socials/facebook.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/company/thankyou-linus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/Thank-you-Linus/.github/master/images/socials/linkedin.svg"/></a>
+</p>
 
 <div align="center">
-  <a href="https://thankyou-linus.com/">
-    <img src="https://thankyou-linus.com/wp-content/uploads/2023/05/cropped-linnus-logo-favicon-192x192.png" alt="Logo" width="200" height="200">
+  <a href="https://discord.gg/cZ7NH4ex">
+      <img src="https://discordapp.com/api/guilds/1104794215440978042/widget.png?style=shield" alt="Linus Shield"/>
   </a>
-
-<h3 align="center">Thank you Linus</h3>
-  <p align="center">
-    Votre majordome personnel
-    <br />
-    <a href="https://thankyou-linus.com/"><strong>Go to website »</strong></a>
-    <br />
-    <a href="https://discord.gg/cZ7NH4ex">
-        <img src="https://discordapp.com/api/guilds/1104794215440978042/widget.png?style=shield" alt="Linus Shield"/>
-    </a>
-  </p>
 </div>
 
 
