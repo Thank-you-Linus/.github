@@ -26,8 +26,9 @@
     <img src="https://github.com/Thank-you-Linus/.github/blob/master/images/linus-banner.png?raw=true" alt="Thank you Linus" /></a>
 </p>
 
+<h3 align="center">Thank you Linus</h3>
+
 <p align="center">
-  <h3 align="center">Thank you Linus</h3>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D4937&center=true&random=false&width=435&lines=Votre+majordome+personnel+!" alt="Typing SVG" /></a>
 </p>
